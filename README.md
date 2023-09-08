@@ -1,2 +1,3 @@
-# python_roadmap
-Роадмап по Python
+# Подробный роадмап по Python
+
+### **1.** **Основы** **Python:**
