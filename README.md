@@ -1,4 +1,4 @@
-# Подробный роадмап для Machine Learning Engineer
+# Роадмап для Machine Learning Engineer
 
 ## Начальный этап:
 
