@@ -1,4 +1,4 @@
-# Роадмап для Machine Learning Engineer
+# Machine Learning Roadmap
 
 ## Начальный этап:
 
