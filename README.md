@@ -1,4 +1,7 @@
-# Machine Learning Roadmap
+<p align="center"><img src="https://static.vecteezy.com/system/resources/thumbnails/003/504/819/small/brain-and-artificial-intelligence-line-icon-brain-innovation-logo-illustration-free-vector.jpg"></p>
+<h1 align="center">Machine Learning Roadmap</h1>
+
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 
 ## Начальный этап:
 
@@ -66,9 +69,10 @@
 - Присоединитесь к сообществам инженеров машинного обучения, участвуйте в дискуссиях и делитесь своим опытом.
 ---
 
-# Топ 5 книг для изучения MLE :book:
+# 5 книг для изучения ML :book:
 - ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili](https://www.amazon.fr/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939)
 - ["Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 - ["Pattern Recognition and Machine Learning" by Christopher M. Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - ["Practical Statistics for Data Scientists" by Andrew Bruce and Peter Bruce](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+<img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
